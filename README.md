@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Myracle
 - 👀 I’m interested in data science, technology, music, and adventures.
-- 🌱 I’m currently learning data analytics, R, and advanced SQL and Python techniques.
-- 💞️ I’m looking to collaborate on data analytic projects to grow my knowledge of exploring data.
+- 🌱 I’m currently learning advanced SQL and Python techniques while gaining real-world experience working in data and analytics.
+- 💞️ I’m looking to collaborate on data analytic projects to further grow my knowledge of exploring data.
 - 📫 How to reach me: mshaune95@gmail.com or https://www.linkedin.com/in/mshaune
 
 <!---
